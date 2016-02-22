@@ -1,2 +1,3 @@
 # hello-world
-just a test app
+
+Hello, everyone! This is a test.
